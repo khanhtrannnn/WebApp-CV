@@ -1336,3 +1336,19 @@
 .fa-plus-square-o:before {
   content: "\f196";
 }
+/*hr.style13 {*/
+/*	height: 10px;*/
+/*	border: 0;*/
+/*	box-shadow: 0 10px 10px -10px #8c8b8b inset;*/
+/*}*/
+
+.background-body{
+  background-image: url(http://goo.gl/ppJ4pw);
+  background-size:cover;
+}
+
+hr.horizontal-line{
+    max-width: 1000px;
+    border-color: #00ff00;
+    border-width: 3px;
+}
