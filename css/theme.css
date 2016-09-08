@@ -256,7 +256,7 @@ img#site-title {
 
 .progress .color2,
 .progress .color2 .bar-width{
-  background: #6aa42f;
+  background:  #73e600;
 }
 
 .progress .color3,
@@ -271,7 +271,7 @@ img#site-title {
 
 .progress, 
 .progress-bar {
-  height: 15px;
+  height: 9px;
   line-height: 15px;
   background: #e6e6e6;
   -webkit-box-shadow: none;
