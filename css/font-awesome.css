@@ -1348,7 +1348,10 @@
 }
 
 hr.horizontal-line{
-    max-width: 1000px;
-    border-color: #00ff00;
-    border-width: 3px;
+  max-width: 80px;
+  border-color: #73e600;
+  border-width: 5px;
+  text-align: center;
 }
+
+
